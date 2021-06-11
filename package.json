@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
     "google-maps-react": "^2.0.6",
     "multiselect-react-dropdown": "^1.6.13",
     "react": "^16.14.0",
@@ -19,8 +20,11 @@
     "react-google-places-autocomplete": "^2.3.2",
     "react-redux": "^7.2.4",
     "react-responsive-carousel": "^3.2.18",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "react-star-ratings": "^2.3.0"
+    "react-star-ratings": "^2.3.0",
+    "redux": "^4.1.0",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
